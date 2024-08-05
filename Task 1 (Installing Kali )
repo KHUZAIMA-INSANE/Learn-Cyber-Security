@@ -3,7 +3,8 @@ Installing Live Kali Linux (Usb)
 Download kali linux from https://www.kali.org/get-kali/#kali-platforms
 Download rufus
 Install Kali Linux with rufus in Usb
-Settings for rufus is deafult ( if you want saved configurations you may set persistent )
+Open rufus , select usb then select iso image 
+Rest settings for rufus is deafult ( if you want saved configurations you may set persistent )
 
 2nd step 
 
@@ -15,4 +16,4 @@ Also enable the fn key for direct boot options
 
 Start your pc and and opne direct boot options and select usb 
 Linux boot menu will appear 
-Select Live Kali or if persistent is set select Live kali with persistent.
+Select Live system or if persistent is set select Live system with Usb persistent.
