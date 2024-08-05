@@ -17,4 +17,5 @@ Also enable the fn key for direct boot options
 Start your pc and and opne direct boot options and select usb 
 Linux boot menu will appear 
 Select Live system or if persistent is set select Live system with Usb persistent.
+![KAli image](https://github.com/user-attachments/assets/d00bc204-9fdd-47dc-8560-0b4af457d4fb)
 
