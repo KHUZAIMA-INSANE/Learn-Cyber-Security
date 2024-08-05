@@ -24,21 +24,10 @@ BASIC KALI LINUX COMMANDS:
 
    chmod 764 [ filename ] ( to change privileges , 7(is for admin privileges ), 6(is for group privileges ), 4(is for public privileges ) )
 
-
-
-   
-
-![KAli](https://github.com/user-attachments/assets/3f0fb434-c8b0-44a7-a8e3-6cb66586871a)
-
-
-
-
-
-
-
-
    you can change according to this table ( 1=x 2=w 3=xw 4=r 5=xr 6=rw 7=xwr ) 
    
    x = execute r = read w = write
    
 
+
+![KAli](https://github.com/user-attachments/assets/3f0fb434-c8b0-44a7-a8e3-6cb66586871a)
