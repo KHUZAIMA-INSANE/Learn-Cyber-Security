@@ -36,3 +36,12 @@ BASIC KALI LINUX COMMANDS:
 
 
 ![kali2](https://github.com/user-attachments/assets/001b39bd-fd62-4570-bd2a-6aa6d41a2f6f)
+
+
+
+![kali3](https://github.com/user-attachments/assets/8d406e24-60f4-415a-b232-6b3b0d528385)
+
+
+
+
+
