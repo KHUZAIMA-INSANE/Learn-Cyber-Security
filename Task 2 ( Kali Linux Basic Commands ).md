@@ -18,6 +18,7 @@ BASIC KALI LINUX COMMANDS:
 
 9- echo " content " > [filename] ( to edit the file)
 
+
 10- cat [filenmae] ( to read the content of file )
 
 11- ls -l [filename] ( to check the privilege)
@@ -31,3 +32,7 @@ BASIC KALI LINUX COMMANDS:
 
 
 ![KAli](https://github.com/user-attachments/assets/3f0fb434-c8b0-44a7-a8e3-6cb66586871a)
+
+
+
+![kali2](https://github.com/user-attachments/assets/001b39bd-fd62-4570-bd2a-6aa6d41a2f6f)
